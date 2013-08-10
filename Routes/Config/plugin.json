@@ -1,0 +1,15 @@
+{
+	"name": "Routes",
+	"description": "SEO Url with Routes Plugin",
+
+	"author": "Roland Wassinger",
+	"authorEmail": "roland.wassinger@gmail.com",
+	"authorUrl": "",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}
