@@ -25,7 +25,7 @@ class RoutesActivation{
  * @return boolean
  */
 	public function beforeActivation(&$controller){
-		$sql = file_get_contents(APP.'plugin'.DS.'routes'.DS.'config'.DS.'schema'.DS.'routes.sql');
+		$sql = file_get_contents(APP.'Plugin'.DS.'Routes'.DS.'Config'.DS.'Schema'.DS.'routes.sql');
 		
 		if(!empty($sql)){
 			$db = $this->_connect();
