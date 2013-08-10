@@ -1,4 +1,7 @@
-croogo-route
+Croogo Route Plugin (beta)
 ============
 
-Plugin Route form Croogo 1.5 cms
+Plugin requires Croogo 1.5
+
+Nicer url with the Route Plugin.
+
